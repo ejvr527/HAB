@@ -1,3 +1,4 @@
+// --> OBSOLETE
 //digital
 #include <SoftwareSerial.h>
 #include <OneWire.h> 
